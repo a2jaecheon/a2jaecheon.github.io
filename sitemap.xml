@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://cgitec.com/home/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
+	</url>
+	<url>
+		<loc>https://cgitec.com/about/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
+	</url>
+	<url>
 		<loc>https://cgitec.com/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
 	</url>
 	<url>
-		<loc>https://cgitec.com/contact-form/index.php</loc>
+		<loc>https://cgitec.com/page-3/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
 	</url>
 	<url>
-		<loc>https://cgitec.com/blog/index.html</loc>
+		<loc>https://cgitec.com/page-2/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
 	</url>
 	<url>
-		<loc>https://cgitec.com/blog/files/c6a30492790993a9d2bae899400788b6-0.html</loc>
+		<loc>https://cgitec.com/contact/index.php</loc>
+		<lastmod>2020-12-03</lastmod>
 	</url>
 	<url>
-		<loc>https://cgitec.com/blog/files/archive-november-2020.html</loc>
+		<loc>https://cgitec.com/support/index.html</loc>
+		<lastmod>2020-12-03</lastmod>
 	</url>
 </urlset>
